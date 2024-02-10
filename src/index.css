@@ -7,6 +7,13 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.sim {
+  display: flex;
+  height: 100vh;
+  background: rgb(199,34,253);
+  background: linear-gradient(323deg, rgba(199,34,253,1) 0%, rgba(0,0,0,1) 71%, rgba(4,0,0,1) 100%);
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;

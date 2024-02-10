@@ -2,6 +2,16 @@
   text-align: center;
 }
 
+.mainFrame{
+  display: flex;
+  flex-direction: column;
+  width: 80vw;
+  height: 85vh;
+  background-color: black;
+  margin: 0 auto;
+  margin-top: 4rem;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
